@@ -6,7 +6,7 @@
 
 ### Other stuff
 
-I started doing Electrical Engineering at the Indian Institute of Technology, Delhi because of interests in hacking electronics. Very soon, I realized I was way more interested in hacking code together and was fascinated by word2vec's famous "king - man + woman = queen" result, and so I started working on NLP with Prof. [Mausam](http://www.cse.iitd.ernet.in/~mausam/). Right after finishing undergrad, I moved to beautiful Amherst for a year long internship with Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/). Soon after that, I moved to Montreal to work on systematic generalization and program induction with Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). 
+I started studying Electrical Engineering at the Indian Institute of Technology, Delhi because of interests in hacking electronics. Very soon, I realized I was way more interested in hacking code together and was fascinated by word2vec's famous "king - man + woman = queen" result, and so I started working on NLP with Prof. [Mausam](http://www.cse.iitd.ernet.in/~mausam/). Right after finishing undergrad, I moved to beautiful Amherst for a year long internship with Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/). Soon after that, I moved to Montreal to work on systematic generalization and program induction with Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). 
 
 
 See [Google Scholar](https://scholar.google.ca/citations?user=ubAcojQAAAAJ&hl=en) for a list of publications.
