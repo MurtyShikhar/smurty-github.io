@@ -1,5 +1,5 @@
 
-I am a first year CS PhD Student in the Stanford NLP Group, currently working with Prof. [Christopher Manning](https://nlp.stanford.edu/manning/). My main research goal is in learning representations of language that facilitate [compositional/systematic generalization](https://arxiv.org/abs/1811.12889), and then using these representations as tools for learning, reasoning and communication. Apart from that I'm interested in [program induction/semantic parsing](https://www.aclweb.org/anthology/N19-1273.pdf), meta learning, [hierarchical representations](https://arxiv.org/abs/1805.06627) and [extracting information](https://www.aclweb.org/anthology/P18-1010.pdf) from raw text. 
+I am a first year CS PhD Student in the Stanford NLP Group, advised by Prof. [Christopher Manning](https://nlp.stanford.edu/manning/). My main research goal is in learning representations of language that facilitate [compositional/systematic generalization](https://arxiv.org/abs/1811.12889), and then using these representations as tools for learning, reasoning and communication. Apart from that I'm interested in [program induction/semantic parsing](https://www.aclweb.org/anthology/N19-1273.pdf), meta learning, [hierarchical representations](https://arxiv.org/abs/1805.06627) and [extracting information](https://www.aclweb.org/anthology/P18-1010.pdf) from raw text. 
 <br/>
 <br/>
 
