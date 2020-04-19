@@ -12,4 +12,13 @@ See [Google Scholar](https://scholar.google.ca/citations?user=ubAcojQAAAAJ&hl=en
 
 When not working, things I like to do include fitness, reading and baking.
 
+### Collaborators/Mentors
+In the past, I've been very fortunate to work with phenomenonal researchers from whom I've learnt a ton:
+- [Patrick Verga]()
+- [Luke Vilnis]()
+- [Dzimitry Bahdanau]()
+- [Danny Tarlow]()
+- [Matt Gardner]()
+- [Pradeep Dasigi]()
+- [Pang Wei Koh]()
 
