@@ -16,7 +16,7 @@ When not working, things I like to do include fitness, reading and baking.
 In the past, I've been very fortunate to work with phenomenonal researchers from whom I've learnt a ton:
 - [Patrick Verga (UMass Amherst)]()
 - [Luke Vilnis (UMass Amherst)]()
-- [Dzimitry Bahdanau (MILA)]()
+- [Dzmitry Bahdanau (MILA)]()
 - [Danny Tarlow (Google Brain)]()
 - [Matt Gardner (AI2)]()
 - [Pradeep Dasigi (AI2)]()
