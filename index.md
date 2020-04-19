@@ -14,11 +14,11 @@ When not working, things I like to do include fitness, reading and baking.
 
 ### Collaborators/Mentors
 In the past, I've been very fortunate to work with phenomenonal researchers from whom I've learnt a ton:
-- [Patrick Verga]()
-- [Luke Vilnis]()
-- [Dzimitry Bahdanau]()
-- [Danny Tarlow]()
-- [Matt Gardner]()
-- [Pradeep Dasigi]()
-- [Pang Wei Koh]()
+- [Patrick Verga (UMass Amherst)]()
+- [Luke Vilnis (UMass Amherst)]()
+- [Dzimitry Bahdanau (MILA)]()
+- [Danny Tarlow (Google Brain)]()
+- [Matt Gardner (AI2)]()
+- [Pradeep Dasigi (AI2)]()
+- [Pang Wei Koh (Stanford)]()
 
